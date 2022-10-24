@@ -6,6 +6,11 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.p-x {
+    padding: 4rem 0;
+
+}
+
 h1 {
     margin: 10px 0px 10px;
     font-size: 20px;
